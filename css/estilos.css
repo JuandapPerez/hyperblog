@@ -4,6 +4,15 @@ body
     font-family: Courier;
     color: blue;
 }
+#cabecera
+{
+    background-color: blueviolet;
+    background-position-x: left;
+    font-size: smaller;
+    color: red;
+
+}
+
 #contenedor
 {
     text-align: center;
