@@ -4,3 +4,9 @@ body
     font-family: "Arial";
     color: blue;
 }
+#contenedor
+{
+    text-align: center;
+    font-family: "Arial";
+    color: black;
+}
